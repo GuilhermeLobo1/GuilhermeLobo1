@@ -9,19 +9,19 @@
 </p>
 
 ---
-
+[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ### 🐺 Sobre Mim
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <br/>
       🌱 Cursando o 1º semestre de <b>ADS no IFCE - Campus Boa Viagem</b>.<br/><br/>
       🚀 Focado em aprender <b>Lógica, C, Python, JavaScript e Web</b>.<br/><br/>
       💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/><br/>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="180px" alt="Coding GIF" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="130px" alt="Wolf Icon" />
     </td>
   </tr>
 </table>
@@ -31,14 +31,13 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeLobo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLobo1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeLobo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeLobo1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLobo1&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLobo1&theme=tokyonight&hide_border=true" width="95%" />
 </p>
-
 ---
 
 ### 🛠️ Minha Stack
