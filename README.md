@@ -13,9 +13,9 @@
 
 <img align="right" width="130" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" />
 
-- 🌱 Cursando o 1º semestre de **ADS no IFCE - Campus Boa Viagem**.<br/>
-- 🚀 Focado em aprender **Lógica, C, Python, JavaScript e Web**.<br/>
-- 💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/>
+-  Cursando o 1º semestre de **ADS no IFCE - Campus Boa Viagem**.<br/>
+-  Focado em aprender **Lógica, C, Python, JavaScript e Web**.<br/>
+-  Explorando projetos interativos, segurança básica e desenvolvimento web.<br/>
 
 <br clear="both"/>
 
