@@ -18,17 +18,17 @@
 - 💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/>
 
 <br clear="both"/>
+
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeLobo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeLobo1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeLobo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeLobo1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLobo1&theme=tokyonight&hide_border=true" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLobo1&theme=tokyonight&hide_border=true" width="99%" />
 </p>
 
 ---
