@@ -11,21 +11,13 @@
 ---
 ### 🐺 Sobre Mim
 
-<div align="left">
-  <table border="0">
-    <tr style="border: none; background: transparent;">
-      <td width="70%" style="border: none;" valign="top">
-        🌱 Cursando o 1º semestre de <b>ADS no IFCE - Campus Boa Viagem</b>.<br/><br/>
-        🚀 Focado em aprender <b>Lógica, C, Python, JavaScript e Web</b>.<br/><br/>
-        💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/><br/>
-      </td>
-      <td width="30%" style="border: none;" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/LmN8OYiY4m0X85al0Z/giphy.gif" width="130px" alt="Pixel Art" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" width="130" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" />
 
+- 🌱 Cursando o 1º semestre de **ADS no IFCE - Campus Boa Viagem**.
+- 🚀 Focado em aprender **Lógica, C, Python, JavaScript e Web**.
+- 💡 Explorando projetos interativos, segurança básica e desenvolvimento web.
+
+<br clear="both"/>
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -38,6 +30,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLobo1&theme=tokyonight&hide_border=true" width="95%" />
 </p>
+
 ---
 
 ### 🛠️ Minha Stack
