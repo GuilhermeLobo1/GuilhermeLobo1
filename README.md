@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Front--End%20%26%20Logic-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/IFCE-Boa%20Viagem-006600?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/IFCE-Campus%20Boa%20Viagem-2ea44f?style=for-the-badge&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=GuilhermeLobo1&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 </p>
 
@@ -13,9 +13,9 @@
 
 <img align="right" width="130" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" />
 
-- 🌱 Cursando o 1º semestre de **ADS no IFCE - Campus Boa Viagem**.
-- 🚀 Focado em aprender **Lógica, C, Python, JavaScript e Web**.
-- 💡 Explorando projetos interativos, segurança básica e desenvolvimento web.
+- 🌱 Cursando o 1º semestre de **ADS no IFCE - Campus Boa Viagem**.<br/>
+- 🚀 Focado em aprender **Lógica, C, Python, JavaScript e Web**.<br/>
+- 💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/>
 
 <br clear="both"/>
 ---
