@@ -11,19 +11,20 @@
 ---
 ### 🐺 Sobre Mim
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <br/>
-      🌱 Cursando o 1º semestre de <b>ADS no IFCE - Campus Boa Viagem</b>.<br/><br/>
-      🚀 Focado em aprender <b>Lógica, C, Python, JavaScript e Web</b>.<br/><br/>
-      💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/><br/>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="130px" alt="Wolf Icon" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <table border="0">
+    <tr style="border: none; background: transparent;">
+      <td width="70%" style="border: none;" valign="top">
+        🌱 Cursando o 1º semestre de <b>ADS no IFCE - Campus Boa Viagem</b>.<br/><br/>
+        🚀 Focado em aprender <b>Lógica, C, Python, JavaScript e Web</b>.<br/><br/>
+        💡 Explorando projetos interativos, segurança básica e desenvolvimento web.<br/><br/>
+      </td>
+      <td width="30%" style="border: none;" align="center" valign="middle">
+        <img src="https://media.giphy.com/media/LmN8OYiY4m0X85al0Z/giphy.gif" width="130px" alt="Pixel Art" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
